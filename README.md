@@ -8,6 +8,10 @@ Suture
 Suture provides Erlang-ish supervisor trees for Go. "Supervisor trees" ->
 "sutree" -> "suture" -> holds your code together when it's trying to die.
 
+![Gopher graphic of a surgeon holding suture tools](https://github.com/thejerf/suture/blob/master/images/surgeon.jpg)
+
+Because AI means no project needs to go without a silly logo. Gopher derived from [Renee French's CC work](https://go.dev/blog/gopher).
+
 If you are reading this on pkg.go.dev, you should [visit the v4 docs](https://pkg.go.dev/github.com/thejerf/suture/v4).
 
 It is intended to deal gracefully with the real failure cases that can
